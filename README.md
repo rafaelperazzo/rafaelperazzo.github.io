@@ -1,7 +1,12 @@
 # Rafael Perazzo Barbosa Mota
 
 **Cargo/Profissão:** Docente do Departamento de Computação (DC) da UFRPE  
-**Formação acadêmica:** *possui graduação em Ciência da Computação pela Universidade Estadual do Ceará (UECE), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar) e Doutorado em Ciência da Computação pela Universidade de São Paulo (USP)*
+
+**Formação acadêmica:** *possui graduação em Ciência da Computação pela Universidade Estadual do Ceará (UECE - 1998-2002), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar - 2004-2006) e Doutorado em Ciência da Computação pela Universidade de São Paulo (USP - 2012-2015)*
+
+**Experiência profissional :** *docente da Universidade Federal do Ceará (2007-2013), docente da Universidade Federal do Cariri (2013-2024) e docente da Universidade Federal Rural de Pernambuco (2024-atual)*
+
+**Atualmente:** *Membro do Laboratório de Segurança Cibernética (BrSecLab) do Departamento de Computação da UFRPE*
 
 ## Interesses
 - Redes
