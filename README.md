@@ -13,8 +13,11 @@
 
 ## Apps Mobile
 - DCApp - <https://github.com/rafaelperazzo/react_salas>
+  
 ![DCApp QrCode](https://ibb.co/PZ64Q1H5)
+
 - BrSecLab <https://github.com/rafaelperazzo/brseclab>
+  
 ![BrSecLab QrCode](https://ibb.co/whSkp1h3)
 
 ## Bibliotecas
