@@ -1,5 +1,7 @@
 # Rafael Perazzo Barbosa Mota
 
+![Cartão de Visita](cartao_visita.png)
+
 [Currículo Lattes](http://lattes.cnpq.br/3078288668202994)
 
 Tese de Doutorado
