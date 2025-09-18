@@ -3,7 +3,7 @@
 **Cargo/Profissão:** Docente do Departamento de Computação (DC) da UFRPE  
 **Formação acadêmica:** Doutorado em Ciência da Computação no IME/USP  
 
-## Habilidades
+## Interesses
 - Redes
 - Segurança Cibernética
 - Python
