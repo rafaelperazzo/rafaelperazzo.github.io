@@ -14,11 +14,11 @@
 ## Apps Mobile
 - DCApp - <https://github.com/rafaelperazzo/react_salas>
   
-![DCApp QrCode](https://ibb.co/PZ64Q1H5)
+<a href="https://ibb.co/PZ64Q1H5"><img src="https://i.ibb.co/PZ64Q1H5/qrcode-DCApp.png" alt="qrcode-DCApp" border="0" /></a>
 
 - BrSecLab <https://github.com/rafaelperazzo/brseclab>
   
-![BrSecLab QrCode](https://ibb.co/whSkp1h3)
+<a href="https://ibb.co/whSkp1h3"><img src="https://i.ibb.co/whSkp1h3/qrcode-Br-Sec-Lab.png" alt="qrcode-Br-Sec-Lab" border="0" /></a>
 
 ## Bibliotecas
 - brSecLabCripto <https://github.com/rafaelperazzo/brSecLabCripto>
