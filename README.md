@@ -36,6 +36,8 @@ MOTA, Rafael Perazzo Barbosa. Extensões ao protocolo de comunicação EPCGlobal
 
 <https://play.google.com/store/apps/details?id=com.rafaelperazzo.appdc>
 
+![DCApp](DcApp.gif)
+
 - BrSecLab <https://github.com/rafaelperazzo/brseclab>
   
 <a href="https://ibb.co/whSkp1h3"><img src="https://i.ibb.co/whSkp1h3/qrcode-Br-Sec-Lab.png" alt="qrcode-Br-Sec-Lab" border="0" /></a>
