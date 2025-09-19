@@ -1,7 +1,6 @@
 # Rafael Perazzo Barbosa Mota
 
 ![Cartão de Visita](cartao_visita.png)
-
 [Currículo Lattes](http://lattes.cnpq.br/3078288668202994)
 
 Tese de Doutorado
@@ -42,6 +41,8 @@ MOTA, Rafael Perazzo Barbosa. Extensões ao protocolo de comunicação EPCGlobal
 <a href="https://ibb.co/whSkp1h3"><img src="https://i.ibb.co/whSkp1h3/qrcode-Br-Sec-Lab.png" alt="qrcode-Br-Sec-Lab" border="0" /></a>
 
 <https://play.google.com/store/apps/details?id=com.rafaelperazzo.appdc>
+
+![BrSecLabApp](BrSecLabApp.gif)
 
 ## Bibliotecas
 - brSecLabCripto <https://github.com/rafaelperazzo/brSecLabCripto>
